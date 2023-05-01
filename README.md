@@ -4,7 +4,10 @@
 ### 💌 Here's how to reach me: https://www.linkedin.com/in/michaeladunston/
 
 
-![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/87950974/235434524-87a7f5b3-1f70-4fbb-9b01-f49d58abeadb.png)
+![Gold Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/87950974/235435639-d8b85d0a-8a6d-48f0-b1c1-bab0d0db6ae4.png)
+
+
+
 
 <!--
 **Echinodermatagirl/Echinodermatagirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
