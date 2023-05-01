@@ -4,7 +4,8 @@
 ### 💌 Here's how to reach me: https://www.linkedin.com/in/michaeladunston/
 
 
-![Gold Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/87950974/235435639-d8b85d0a-8a6d-48f0-b1c1-bab0d0db6ae4.png)
+![Gold Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/87950974/235435926-3337cafc-d206-4303-a880-488970297054.png)
+
 
 
 
