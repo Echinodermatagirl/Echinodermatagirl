@@ -1,7 +1,11 @@
 ### 👋 Hey! I'm Chaela! 
-### 👀 I am a CyberSecurtiy Student at Florida International University - College of Engineering & Computing 
-### I currently use Java, C, and Python 
+### 👀 I am a CyberSecurity Student at Florida International University - College of Engineering & Computing 
+### ⚡ I currently use Java, C, and Python 
 ### 💌 Here's how to reach me: https://www.linkedin.com/in/michaeladunston/
+
+
+![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/87950974/235434524-87a7f5b3-1f70-4fbb-9b01-f49d58abeadb.png)
+
 <!--
 **Echinodermatagirl/Echinodermatagirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
